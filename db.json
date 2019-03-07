@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"flashcards": [{
+			"id": 1,
+			"Question": "Question1",
+			"Answer": "answe1"
+		}, {
+			"id": 2,
+			"Question": "Question2",
+			"Answer": "answe2"
+		},
+		{
+			"id": 3,
+			"Question": "Question3",
+			"Answer": "answe3"
+		},
+		{
+			"id": 4,
+			"Question": "Question4",
+			"Answer": "answe4"
+		}
+	]
 }
