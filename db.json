@@ -24,20 +24,20 @@
 			"CategoryID": 3,
 		}
 	],
-	"category": [{
+	"categories": [{
 			"id": 1,
 			"name": "History",
 		}, {
 			"id": 2,
-			"Question": "Algebra",
+			"name": "Algebra",
 		},
 		{
 			"id": 3,
-			"Question": "Security",
+			"name": "Security",
 		},
 		{
 			"id": 4,
-			"Question": "General",
+			"name": "General",
 		}
 	]
 }
