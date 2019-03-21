@@ -2,21 +2,42 @@
 	"flashcards": [{
 			"id": 1,
 			"Question": "Question1",
-			"Answer": "answe1"
-		}, {
+			"Answer": "answe1",
+			"CategoryID": 1,
+			}, 
+			{
 			"id": 2,
 			"Question": "Question2",
-			"Answer": "answe2"
+			"Answer": "answe2",
+			"CategoryID": 2,
 		},
 		{
 			"id": 3,
 			"Question": "Question3",
-			"Answer": "answe3"
+			"Answer": "answe3",
+			"CategoryID": 1,
 		},
 		{
 			"id": 4,
 			"Question": "Question4",
-			"Answer": "answe4"
+			"Answer": "answe4",
+			"CategoryID": 3,
+		}
+	],
+	"category": [{
+			"id": 1,
+			"name": "History",
+		}, {
+			"id": 2,
+			"Question": "Algebra",
+		},
+		{
+			"id": 3,
+			"Question": "Security",
+		},
+		{
+			"id": 4,
+			"Question": "General",
 		}
 	]
 }
